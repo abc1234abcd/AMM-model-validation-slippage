@@ -1,6 +1,6 @@
 # AMM-model-validation-slippage
 
-* valided model: the homogeneous properties of automated market makers *
+* valided model: the homogeneous properties of automated market makers 
 
 > Research paper reference link: https://arxiv.org/abs/2105.02782
 
