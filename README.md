@@ -9,7 +9,8 @@ Validating assumption: the price impact of AMM trade-execution is non-linear, an
 
 base model: AMM is multiplicative contraint model.
 
-demo partical output for order slippage:
+demo partial output for order slippage: 
+
 
 ![alt text](https://bafkreifto3hzhllg4hibbllpy6obs5t4lv3buzscwqdorbjqb4ixteibze.ipfs.nftstorage.link/)
 
