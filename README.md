@@ -11,5 +11,5 @@ base model: AMM is multiplicative contraint model.
 
 demo partical output for order slippage:
 
-![alt text](C:\Users\Admin\Downloads\.newplot(2).png)
+![alt text](./newplot(2).png)
 
