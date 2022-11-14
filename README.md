@@ -1,6 +1,6 @@
 # AMM-model-validation-slippage
 
-** valided model: the homogeneous properties of automated market makers **
+* valided model: the homogeneous properties of automated market makers *
 
 > Research paper reference link: https://arxiv.org/abs/2105.02782
 
@@ -11,5 +11,5 @@ base model: AMM is multiplicative contraint model.
 
 demo partical output for order slippage:
 
-![alt text](./newplot(2).png)
+![alt text]([./newplot(2).png](https://bafkreifto3hzhllg4hibbllpy6obs5t4lv3buzscwqdorbjqb4ixteibze.ipfs.nftstorage.link/))
 
